@@ -1,4 +1,5 @@
 # DIGHUM101-2020
+Instructor: Evan Muzzall, PhD
 
 ### Welcome to DIGHUM101 - Summer 2020!
 
