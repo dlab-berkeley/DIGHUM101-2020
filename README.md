@@ -8,7 +8,7 @@ Evan Muzzall, PhD
 
 ![dogreading](Img/giphy-dog.gif)
 
-### This is the GitHub repository for DIGHUM101. This repository has four directories and three files: 
+### This is the GitHub repository for DIGHUM101. The structure is as follows:
 
 ### Directories
 - **Data/**  The Data directory contains several example datasets we will work through together during class time and for challenge questions. Think bigger for your project! 
