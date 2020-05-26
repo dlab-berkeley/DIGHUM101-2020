@@ -1,6 +1,6 @@
 # DIGHUM101-2020
 Instructor: 
-Evan Muzzall, PhD
+Evan Muzzall, PhD  
 [Instructional Services Lead](https://dlab.berkeley.edu/people/evan-muzzall)  
 [UC Berkeley D-Lab](https://dlab.berkeley.edu/)
 
