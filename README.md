@@ -11,8 +11,13 @@ This is the GitHub repository for DIGHUM101. This repository has four directorie
 
 - **Files/**  Houses the syllabus, University legal language, and a few resources that are posted to bCourses.  
 
-- **Img/**  Has the images used throughout our notebooks and other materials. 
+- **Img/**  Has the images used throughout this repository. 
 
-**Notebooks/**  Contains the Jupyter Notebooks, challenge questions, and solutions. 
+- **Notebooks/**  Your Jupyter Notebooks, challenge questions, and solutions. 
 
 ### Files
+- **.gitignore**  A file for ignoring changes to this repository
+
+- **1-1setup.pdf**  Read this first! 
+
+- **README.md**  Contains the text on this page. 
