@@ -1,7 +1,7 @@
 # DIGHUM101-2020
 Instructor: 
 Evan Muzzall, PhD
-[Instructional Services Lead](https://dlab.berkeley.edu/people/evan-muzzall)
+[Instructional Services Lead](https://dlab.berkeley.edu/people/evan-muzzall)  
 [UC Berkeley D-Lab](https://dlab.berkeley.edu/)
 
 ### Welcome to DIGHUM101 - Summer 2020!
