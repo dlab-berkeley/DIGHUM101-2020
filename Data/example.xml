@@ -1,0 +1,20 @@
+<my-library>
+    <book>
+        <title>The Lion, the Witch and the Wardrobe</title>
+        <author>C. S. Lewis</author>
+        <date>1950</date>
+        <publisher>Geoffrey Bles</publisher>
+    </book>
+    <book>
+        <title>The Hobbit</title>
+        <author>J. R. R. Tolkien</author>
+        <date>1937</date>
+        <publisher>George Allen and Unwin</publisher>
+    </book>
+    <book>
+        <title>To Kill A Mockingbird</title>
+        <author>Harper Lee</author>
+        <date>1960</date>
+        <publisher>J. B. Lippincott and Co.</publisher>
+    </book>
+</my-library>

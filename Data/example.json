@@ -1,0 +1,14 @@
+{"my_library": [{"title": "The Lion, the Witch and the Wardrobe",
+                 "author": "C. S. Lewis",
+                 "date": "1950",
+                 "publisher": "Geoffrey Bles"},
+                {"title": "The Hobbit",
+                 "author": "J. R. R. Tolkien",
+                 "date": "1937",
+                 "publisher": "George Allen and Unwin"},
+                {"title": "To Kill A Mockingbird",
+                 "author": "Harper Lee",
+                 "date": "1960",
+                 "publisher": "J. B. Lippincott and Co."}
+            ]
+}
