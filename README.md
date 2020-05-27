@@ -26,7 +26,7 @@ Evan Muzzall, PhD
 
 - **README.md**  Contains the text on this page. 
 
-- **requirements.txt**  Packages that binder should use.
+- **requirements.txt**  Python libraries that binder should use.
 
 ### [Binder](https://blog.jupyter.org/mybinder-org-serves-two-million-launches-7543ae498a2a)
 
