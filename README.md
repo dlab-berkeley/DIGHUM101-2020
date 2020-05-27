@@ -27,3 +27,8 @@ Evan Muzzall, PhD
 - **README.md**  Contains the text on this page. 
 
 - **requirements.txt**  Packages that binder should use.
+
+### [Binder](https://blog.jupyter.org/mybinder-org-serves-two-million-launches-7543ae498a2a)
+
+Having trouble installing Python, importing data, or otherwise running the notebooks? Click this badge to open this repository [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dlab-berkeley/DIGHUM101-2020/master)
+ 
