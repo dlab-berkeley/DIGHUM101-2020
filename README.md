@@ -30,5 +30,5 @@ Evan Muzzall, PhD
 
 ### [Binder](https://blog.jupyter.org/mybinder-org-serves-two-million-launches-7543ae498a2a)
 
-Are you having trouble installing Python, importing data, or otherwise running the notebooks? Click this badge to open this repository in Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dlab-berkeley/DIGHUM101-2020/master)
+Are you having trouble installing Python, importing data, or otherwise running the notebooks? Click this badge to open our notebooks in Binder - no local installations necessary! [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dlab-berkeley/DIGHUM101-2020/master)
  
