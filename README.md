@@ -25,3 +25,5 @@ Evan Muzzall, PhD
 - **1-1setup.pdf**  Read this first! 
 
 - **README.md**  Contains the text on this page. 
+
+- **requirements.txt**  Packages that binder should use.
