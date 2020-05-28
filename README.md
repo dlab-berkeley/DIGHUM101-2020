@@ -1,14 +1,12 @@
-# DIGHUM101-2020
+# DIGHUM101-2020: Python Practice for the Digital Humanities
 Instructor: 
 Evan Muzzall, PhD  
 [Instructional Services Lead](https://dlab.berkeley.edu/people/evan-muzzall)  
 [UC Berkeley D-Lab](https://dlab.berkeley.edu/)
 
-### Welcome to DIGHUM101 - Summer 2020!
-
 ![dogreading](Img/giphy-dog.gif)
 
-### This is the GitHub repository for DIGHUM101. The structure is as follows:
+### Welcome! This is the GitHub repository for DIGHUM101. The structure is as follows:
 
 ### Directories
 - **Data/**  The Data directory contains several example datasets we will work through together during class time and for challenge questions. Think bigger for your project! 
