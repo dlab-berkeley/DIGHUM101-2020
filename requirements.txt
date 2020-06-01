@@ -2,10 +2,6 @@ pandas
 numpy
 matplotlib
 jupyter
-os
-datetime
-string
-collections
 nltk
 spacy
 seaborn
