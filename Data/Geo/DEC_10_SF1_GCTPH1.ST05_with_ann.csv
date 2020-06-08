@@ -1,0 +1,59 @@
+Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographic area,Geographic area,Population,Housing units,Area in square miles - Total area,Area in square miles - Water area,Area in square miles - Land area,Density per square mile of land area - Population,Density per square mile of land area - Housing units
+0400000US06,6,California,0500000US06001,6001,California - Alameda County,Alameda County,1510271,582549,821.33,82.31,739.02,2043.6,788.3
+0400000US06,6,California,0500000US06003,6003,California - Alpine County,Alpine County,1175,1760,743.18,4.85,738.33,1.6,2.4
+0400000US06,6,California,0500000US06005,6005,California - Amador County,Amador County,38091,18032,605.96,11.37,594.58,64.1,30.3
+0400000US06,6,California,0500000US06007,6007,California - Butte County,Butte County,220000,95835,1677.13,40.67,1636.46,134.4,58.6
+0400000US06,6,California,0500000US06009,6009,California - Calaveras County,Calaveras County,45578,27925,1036.93,16.92,1020.01,44.7,27.4
+0400000US06,6,California,0500000US06011,6011,California - Colusa County,Colusa County,21419,7883,1156.36,5.63,1150.73,18.6,6.9
+0400000US06,6,California,0500000US06013,6013,California - Contra Costa County,Contra Costa County,1049025,400263,803.77,87.83,715.94,1465.2,559.1
+0400000US06,6,California,0500000US06015,6015,California - Del Norte County,Del Norte County,28610,11186,1229.74,223.37,1006.37,28.4,11.1
+0400000US06,6,California,0500000US06017,6017,California - El Dorado County,El Dorado County,181058,88159,1786.36,78.47,1707.88,106,51.6
+0400000US06,6,California,0500000US06019,6019,California - Fresno County,Fresno County,930450,315531,6011.2,53.21,5957.99,156.2,53
+0400000US06,6,California,0500000US06021,6021,California - Glenn County,Glenn County,28122,10778,1326.98,13.03,1313.95,21.4,8.2
+0400000US06,6,California,0500000US06023,6023,California - Humboldt County,Humboldt County,134623,61559,4052.26,484.27,3567.99,37.7,17.3
+0400000US06,6,California,0500000US06025,6025,California - Imperial County,Imperial County,174528,56067,4481.72,305.12,4176.6,41.8,13.4
+0400000US06,6,California,0500000US06027,6027,California - Inyo County,Inyo County,18546,9478,10226.91,46.03,10180.88,1.8,0.9
+0400000US06,6,California,0500000US06029,6029,California - Kern County,Kern County,839631,284367,8162.64,30.72,8131.92,103.3,35
+0400000US06,6,California,0500000US06031,6031,California - Kings County,Kings County,152982,43867,1391.53,2.11,1389.42,110.1,31.6
+0400000US06,6,California,0500000US06033,6033,California - Lake County,Lake County,64665,35492,1329.42,72.96,1256.46,51.5,28.2
+0400000US06,6,California,0500000US06035,6035,California - Lassen County,Lassen County,34895,12710,4720.12,178.94,4541.18,7.7,2.8
+0400000US06,6,California,0500000US06037,6037,California - Los Angeles County,Los Angeles County,9818605,3445076,4750.94,693.06,4057.88,2419.6,849
+0400000US06,6,California,0500000US06039,6039,California - Madera County,Madera County,150865,49140,2153.27,16.2,2137.07,70.6,23
+0400000US06,6,California,0500000US06041,6041,California - Marin County,Marin County,252409,111214,828.19,307.89,520.31,485.1,213.7
+0400000US06,6,California,0500000US06043,6043,California - Mariposa County,Mariposa County,18251,10188,1462.82,14,1448.82,12.6,7
+0400000US06,6,California,0500000US06045,6045,California - Mendocino County,Mendocino County,87841,40323,3878.14,371.8,3506.34,25.1,11.5
+0400000US06,6,California,0500000US06047,6047,California - Merced County,Merced County,255793,83698,1978.51,43.54,1934.97,132.2,43.3
+0400000US06,6,California,0500000US06049,6049,California - Modoc County,Modoc County,9686,5192,4203.4,285.63,3917.77,2.5,1.3
+0400000US06,6,California,0500000US06051,6051,California - Mono County,Mono County,14202,13912,3131.88,82.89,3048.98,4.7,4.6
+0400000US06,6,California,0500000US06053,6053,California - Monterey County,Monterey County,415057,139048,3771.22,490.63,3280.6,126.5,42.4
+0400000US06,6,California,0500000US06055,6055,California - Napa County,Napa County,136484,54759,788.58,40.22,748.36,182.4,73.2
+0400000US06,6,California,0500000US06057,6057,California - Nevada County,Nevada County,98764,52590,973.8,16.03,957.77,103.1,54.9
+0400000US06,6,California,0500000US06059,6059,California - Orange County,Orange County,3010232,1048907,948.07,157.5,790.57,3807.7,1326.8
+0400000US06,6,California,0500000US06061,6061,California - Placer County,Placer County,348432,152648,1502.46,95.45,1407.01,247.6,108.5
+0400000US06,6,California,0500000US06063,6063,California - Plumas County,Plumas County,20007,15566,2613.43,60.38,2553.04,7.8,6.1
+0400000US06,6,California,0500000US06065,6065,California - Riverside County,Riverside County,2189641,800707,7303.42,96.94,7206.48,303.8,111.1
+0400000US06,6,California,0500000US06067,6067,California - Sacramento County,Sacramento County,1418788,555932,994.02,29.37,964.64,1470.8,576.3
+0400000US06,6,California,0500000US06069,6069,California - San Benito County,San Benito County,55269,17870,1390.47,1.76,1388.71,39.8,12.9
+0400000US06,6,California,0500000US06071,6071,California - San Bernardino County,San Bernardino County,2035210,699637,20104.83,47.89,20056.94,101.5,34.9
+0400000US06,6,California,0500000US06073,6073,California - San Diego County,San Diego County,3095313,1164786,4525.68,319.05,4206.63,735.8,276.9
+0400000US06,6,California,0500000US06075,6075,California - San Francisco County,San Francisco County,805235,376942,231.89,185.02,46.87,17179.2,8041.8
+0400000US06,6,California,0500000US06077,6077,California - San Joaquin County,San Joaquin County,685306,233755,1426.5,35.18,1391.32,492.6,168
+0400000US06,6,California,0500000US06079,6079,California - San Luis Obispo County,San Luis Obispo County,269637,117315,3615.55,316.98,3298.57,81.7,35.6
+0400000US06,6,California,0500000US06081,6081,California - San Mateo County,San Mateo County,718451,271031,740.96,292.55,448.41,1602.2,604.4
+0400000US06,6,California,0500000US06083,6083,California - Santa Barbara County,Santa Barbara County,423895,152834,3789.08,1053.99,2735.09,155,55.9
+0400000US06,6,California,0500000US06085,6085,California - Santa Clara County,Santa Clara County,1781642,631920,1304.07,13.97,1290.1,1381,489.8
+0400000US06,6,California,0500000US06087,6087,California - Santa Cruz County,Santa Cruz County,262382,104476,607.17,162,445.17,589.4,234.7
+0400000US06,6,California,0500000US06089,6089,California - Shasta County,Shasta County,177223,77313,3847.42,72.02,3775.4,46.9,20.5
+0400000US06,6,California,0500000US06091,6091,California - Sierra County,Sierra County,3240,2328,962.21,9,953.21,3.4,2.4
+0400000US06,6,California,0500000US06093,6093,California - Siskiyou County,Siskiyou County,44900,23910,6347.34,69.46,6277.89,7.2,3.8
+0400000US06,6,California,0500000US06095,6095,California - Solano County,Solano County,413344,152698,906.19,84.43,821.76,503,185.8
+0400000US06,6,California,0500000US06097,6097,California - Sonoma County,Sonoma County,483878,204572,1767.95,192.1,1575.85,307.1,129.8
+0400000US06,6,California,0500000US06099,6099,California - Stanislaus County,Stanislaus County,514453,179503,1514.69,19.86,1494.83,344.2,120.1
+0400000US06,6,California,0500000US06101,6101,California - Sutter County,Sutter County,94737,33858,608.49,6.08,602.41,157.3,56.2
+0400000US06,6,California,0500000US06103,6103,California - Tehama County,Tehama County,63463,26987,2962.17,12.46,2949.71,21.5,9.1
+0400000US06,6,California,0500000US06105,6105,California - Trinity County,Trinity County,13786,8681,3207.6,28.34,3179.25,4.3,2.7
+0400000US06,6,California,0500000US06107,6107,California - Tulare County,Tulare County,442179,141696,4838.65,14.44,4824.21,91.7,29.4
+0400000US06,6,California,0500000US06109,6109,California - Tuolumne County,Tuolumne County,55365,31244,2274.43,53.55,2220.88,24.9,14.1
+0400000US06,6,California,0500000US06111,6111,California - Ventura County,Ventura County,823318,281695,2208.38,365.25,1843.13,446.7,152.8
+0400000US06,6,California,0500000US06113,6113,California - Yolo County,Yolo County,200849,75054,1023.56,8.87,1014.69,197.9,74
+0400000US06,6,California,0500000US06115,6115,California - Yuba County,Yuba County,72155,27635,643.81,11.97,631.84,114.2,43.7
