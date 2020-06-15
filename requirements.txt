@@ -11,6 +11,5 @@ descartes
 praw
 tweepy
 bs4
-math
 scipy
 sklearn
