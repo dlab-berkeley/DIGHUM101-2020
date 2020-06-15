@@ -5,3 +5,16 @@ jupyter
 nltk
 spacy
 seaborn
+zipfile
+geopandas
+mapclassify
+descartes
+requests
+csv
+time
+praw
+tweepy
+bs4
+math
+scipy
+sklearn
