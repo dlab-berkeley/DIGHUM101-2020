@@ -8,7 +8,6 @@ seaborn
 geopandas
 mapclassify
 descartes
-requests
 csv
 time
 praw
