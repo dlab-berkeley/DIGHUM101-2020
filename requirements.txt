@@ -5,7 +5,6 @@ jupyter
 nltk
 spacy
 seaborn
-zipfile
 geopandas
 mapclassify
 descartes
