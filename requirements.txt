@@ -8,7 +8,6 @@ seaborn
 geopandas
 mapclassify
 descartes
-time
 praw
 tweepy
 bs4
