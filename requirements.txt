@@ -15,6 +15,5 @@ scipy
 sklearn
 gensim
 pyLDAvis
-re
 spacy
 wordcloud
