@@ -13,3 +13,8 @@ tweepy
 bs4
 scipy
 sklearn
+gensim
+pyLDAvis
+re
+spacy
+wordcloud
