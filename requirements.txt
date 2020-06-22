@@ -3,6 +3,8 @@ numpy
 matplotlib
 jupyter
 nltk
+from nltk.corpus import stopwords
+from nltk.corpus import movie_reviews
 spacy
 seaborn
 geopandas
