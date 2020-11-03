@@ -1,4 +1,4 @@
-# DIGHUM101-2020: Python Practice for the Digital Humanities
+# DIGHUM101-2020: Practicing the Digital Humanities (Practicum)
 Instructor: 
 Evan Muzzall, PhD  
 [Instructional Services Lead](https://dlab.berkeley.edu/people/evan-muzzall)  
